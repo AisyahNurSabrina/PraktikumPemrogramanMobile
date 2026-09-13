@@ -1,9 +1,22 @@
-Praktikum Pemrograman Mobile
-
-Nama: Aisyah Nur Sabrina NIM: H1D024128 Shift Awal: Shift C Shift Baru: Shift B
-
-### Foto 1
-![Foto 1](images/images_1.png)
-
-### Foto 2
-![Foto 2](images/images_2.png)
+<table>
+  <thead>
+    <tr>
+      <th>Halaman</th>
+      <th>Screenshot</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Pertemuan 1</td>
+      <td>
+        <img src="images/images_1.png" width="250">
+      </td>
+    </tr>
+    <tr>
+      <td>Pertemuan 2</td>
+      <td>
+        <img src="images/images_2.png" width="250">
+      </td>
+    </tr>
+  </tbody>
+</table>
