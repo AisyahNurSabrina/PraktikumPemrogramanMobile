@@ -1,8 +1,17 @@
+# Praktikum Pemrograman Mobile
+
+**Nama:** Aisyah Nur Sabrina  
+**NIM:** H1D024128  
+**Shift Awal:** Shift C  
+**Shift Baru:** Shift B  
+
+## Dokumentasi
+
 <table>
   <thead>
     <tr>
       <th>Halaman</th>
-      <th>Screenshot</th>
+      <th>Dokumentasi</th>
     </tr>
   </thead>
   <tbody>
@@ -10,13 +19,15 @@
       <td>Pertemuan 1</td>
       <td>
         <img src="images/images_1.png" width="250">
-         <img src="images/images_2.png" width="250">
+        <img src="images/images_2.png" width="250">
       </td>
     </tr>
     <tr>
       <td>Pertemuan 2</td>
       <td>
-        <img src="images/images_2.png" width="250">
+        <a href="images/Screen_recording_20260913_220728.mp4">
+          Lihat Screen Recording Pertemuan 2
+        </a>
       </td>
     </tr>
   </tbody>
