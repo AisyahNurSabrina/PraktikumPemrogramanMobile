@@ -1,18 +1,16 @@
 # Praktikum Pemrograman Mobile
 
-## Identitas
-
-- **Nama:** Aisyah Nur Sabrina
-- **NIM:** H1D024128
-- **Shift Awal:** Shift C
-- **Shift Baru:** Shift B
+**Nama:** Aisyah Nur Sabrina  
+**NIM:** H1D024128  
+**Shift Awal:** Shift C  
+**Shift Baru:** Shift B  
 
 ## Dokumentasi
 
 <table>
   <thead>
     <tr>
-      <th>Pertemuan</th>
+      <th>Halaman</th>
       <th>Dokumentasi</th>
     </tr>
   </thead>
@@ -27,7 +25,9 @@
     <tr>
       <td>Pertemuan 2</td>
       <td>
-        https://github.com/user-attachments/assets/4ac31952-a08c-452f-aa18-e2ecf6c2a9d1
+        <a href="images/Screen_recording_20260913_220728.mp4">
+          Lihat Screen Recording Pertemuan 2
+        </a>
       </td>
     </tr>
   </tbody>
