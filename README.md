@@ -25,7 +25,7 @@
     <tr>
       <td>Pertemuan 2</td>
       <td>
-        <video src="images/screenrecording_1.webm" controls width="600"></video>
+      <video src="images/screenrecording_1.webm" controls width="600"></video>
       </td>
     </tr>
   </tbody>
