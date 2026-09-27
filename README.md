@@ -24,7 +24,7 @@
     </tr>
       <td>Pertemuan 2</td>
       <td>
-        <a href="images/screenrecording_1.mp4">
+        <a href="images/screenrecording_1.webm">
           Lihat Screen Recording Pertemuan 2
         </a>
       </td>
