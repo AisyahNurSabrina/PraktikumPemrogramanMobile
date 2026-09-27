@@ -22,10 +22,11 @@
         <img src="images/images_2.png" width="250">
       </td>
     </tr>
-    <tr>
+    <tr>[screenrecording_1.webm](https://github.com/user-attachments/assets/215081c3-78fb-4b68-8205-0c1387ef6cbc)
+
       <td>Pertemuan 2</td>
       <td>
-        <a href="images/Screen_recording_20260913_220728.mp4">
+        <a href="images/screenrecording_1.mp4">
           Lihat Screen Recording Pertemuan 2
         </a>
       </td>
