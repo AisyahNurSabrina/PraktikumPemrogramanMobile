@@ -22,8 +22,6 @@
         <img src="images/images_2.png" width="250">
       </td>
     </tr>
-    <tr>[screenrecording_1.webm](https://github.com/user-attachments/assets/215081c3-78fb-4b68-8205-0c1387ef6cbc)
-
       <td>Pertemuan 2</td>
       <td>
         <a href="images/screenrecording_1.mp4">
